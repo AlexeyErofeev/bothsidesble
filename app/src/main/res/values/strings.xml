@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ble</string>
+    <string name="started">Server started</string>
+    <string name="stopped">Server stopped</string>
+    <string name="server_log">Server log</string>
+    <string name="message">Message</string>
+    <string name="send">send</string>
+    <string name="no_supp">BLE not supported</string>
+    <string name="turning">Turning on bluetooth...</string>
+    <string name="turn">Turn on bluetooth!</string>
+    <string name="ok">Ok!</string>
+    <string name="not_ok">Not ok!</string>
+    <string name="server">SERVER</string>
+    <string name="client">CLIENT</string>
+</resources>
